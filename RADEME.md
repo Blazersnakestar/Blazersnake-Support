@@ -15,7 +15,7 @@
 </p>
 -->
 
-# DiscordJS-V14-ModMail-Bot
+# Blazersnake Bot:-
 
 Welcome to Blazersnake Bot, a Discord bot project developed using the powerful libraries version 16. This bot is designed to efficiently manage Mods on a server, utilizing a single JSON database for seamless communication.
 
@@ -45,7 +45,7 @@ Closing a mail (by staff):<br>
 <img src="https://media.discordapp.net/attachments/1111644651036876822/1121557698824130570/2023-06-22_22_49_26-TypeScript_Bot_-_Discord.png" alt="Closing Mail Preview">
 -->
 
-## Reasons of Bot Blacklist:
+## Reasons of Bot Blacklist:-
 
 Common reasons that lead you to Blacklist from our Bot:
 
@@ -58,17 +58,21 @@ Common reasons that lead you to Blacklist from our Bot:
 
 TIP:-  To Remove or unblacklist you need to Contact Bot Admins or Owner's in [Support server](https://discord.gg/blazersnake-1034551709986476053)
 
-### Logging Discord webhook:
-Create a new integration for a text channel (which is webhook, for sure), and copy it's URL and use it in `config.js` or `.env`. It's just a simple logging system, whichs logs the newly created mail and closed mails.
+### Need Help?:
+Create a ticket in Our [Support server](https://discord.gg/blazersnake-1034551709986476053) and Mentions Owner's or Availbe Admins. 
 
 ## Need Assistance?
 
-If you encounter any issues or have questions about this project, please create an issue on this repository. I will respond to your inquiries as quickly as possible. Your feedback is valuable and helps improve the project.
+If you encounter any issues or have questions about this bot, please create an issue on this repository. I will respond to your inquiries as quickly as possible. Your feedback is valuable and helps improve the bot.
 
 ## Contributors
-Thank you to all the people who contributed to **DiscordJS-V14-ModMail-Bot**!
+Thank you to all the people who contributed to **Blazersnake Bot**!
 
-<img src="https://contrib.rocks/image?repo=TFAGaming/DiscordJS-V14-ModMail-Bot">
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 The **MIT** License.
