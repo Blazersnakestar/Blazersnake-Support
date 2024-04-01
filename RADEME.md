@@ -17,17 +17,17 @@
 
 # DiscordJS-V14-ModMail-Bot
 
-Welcome to DiscordJS-V14-ModMail-Bot, a Discord bot project developed using the powerful npm package discord.js version 14. This bot is designed to efficiently manage modmail on a server, utilizing a single JSON database for seamless communication.
+Welcome to Blazersnake Bot, a Discord bot project developed using the powerful libraries version 16. This bot is designed to efficiently manage Mods on a server, utilizing a single JSON database for seamless communication.
 
 If you find this project useful, please show your support by clicking the star (⭐️) button above this repository. Thank you! 🙏
 
 # Features
 
-- Easy to use and set up.
-- Simplifies the management of modmail.
-- Robust error handling for a smooth experience.
-- Transcript system.
-- Webhook logging system.
+- Added Blacklist System.
+- Added database Saves. 
+- Added Feedback System. 
+- Added Transcript system.
+- Ticket System Advenced (COMING SOON) 
 
 <!--
 # Preview
@@ -45,21 +45,13 @@ Closing a mail (by staff):<br>
 <img src="https://media.discordapp.net/attachments/1111644651036876822/1121557698824130570/2023-06-22_22_49_26-TypeScript_Bot_-_Discord.png" alt="Closing Mail Preview">
 -->
 
-## Requirements:
+## Reasons of Bot Blacklist:
 
-- [Node.js](https://nodejs.org/en/): version 16.9.0 or above.
-- [discord.js](https://www.npmjs.com/package/discord.js): version 14.13.0 or above.
-- [horizon-handler](https://www.npmjs.com/package/horizon-handler) (my package): version 1.6.0 or above.
-- [@tfadev/easy-sqlite](https://www.npmjs.com/package/@tfadev/easy-sqlite) (my package): version 1.0.1 or above.
-- [colors](https://www.npmjs.com/package/ms): any version.
+Common reasons that lead you to Blacklist from our Bot:
 
-## Setup the project:
-
-To run the project, follow these steps:
-
-1. Download and unzip the source code.
-2. Open Visual Studio Code and select the unzipped folder as your workspace.
-3. Use `npm init -y` and then `npm i`.
+1. Spamming using Bot Commands. [3d]
+2. Sabotage and using the bot for unethical things. [7d]
+3. Sell bot for Real Money or for credits. [5d] , [Perm] 
 4. Fill in the empty values in the `config.js` file with the required information, you can use `.env` file for more security. Obtain your bot token from the [Discord Developer Portal](https://discord.com/developers).
 5. Open the terminal in Visual Studio Code and run `node index.js`, `node .`, or `npm run start`.
 6. Enjoy! =)
