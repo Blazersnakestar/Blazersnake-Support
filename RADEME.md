@@ -66,13 +66,13 @@ Create a ticket in Our [Support server](https://discord.gg/blazersnake-103455170
 If you encounter any issues or have questions about this bot, please create an issue on this repository. I will respond to your inquiries as quickly as possible. Your feedback is valuable and helps improve the bot.
 
 ## Contributors
-Thank you to all the people who contributed to **Blazersnake Bot**!
+Thank you to all the people who contributed to **Blazersnake Bot** & **All our Works/Models, Pojects, Programming**!
 
 <a href="https://github.com/angular/angular-ja/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+
 
 ## License
 The **MIT** License.
