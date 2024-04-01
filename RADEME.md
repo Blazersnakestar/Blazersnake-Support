@@ -52,9 +52,11 @@ Common reasons that lead you to Blacklist from our Bot:
 1. Spamming using Bot Commands. [3d]
 2. Sabotage and using the bot for unethical things. [7d]
 3. Sell bot for Real Money or for credits. [5d] , [Perm] 
-4. Fill in the empty values in the `config.js` file with the required information, you can use `.env` file for more security. Obtain your bot token from the [Discord Developer Portal](https://discord.com/developers).
-5. Open the terminal in Visual Studio Code and run `node index.js`, `node .`, or `npm run start`.
-6. Enjoy! =)
+4. Sends +18 Links to bot or Send Fake links/images/files. [7d]
+5. Joined in suspicious Servers. [Perm]
+
+
+TIP:-  To Remove or unblacklist you need to Contact Bot Admins or Owner's in (Support server)[https://discord.gg/blazersnake-1034551709986476053]
 
 ### Logging Discord webhook:
 Create a new integration for a text channel (which is webhook, for sure), and copy it's URL and use it in `config.js` or `.env`. It's just a simple logging system, whichs logs the newly created mail and closed mails.
