@@ -56,7 +56,7 @@ Common reasons that lead you to Blacklist from our Bot:
 5. Joined in suspicious Servers. [Perm]
 
 
-TIP:-  To Remove or unblacklist you need to Contact Bot Admins or Owner's in (Support server)[https://discord.gg/blazersnake-1034551709986476053]
+TIP:-  To Remove or unblacklist you need to Contact Bot Admins or Owner's in [Support server](https://discord.gg/blazersnake-1034551709986476053)
 
 ### Logging Discord webhook:
 Create a new integration for a text channel (which is webhook, for sure), and copy it's URL and use it in `config.js` or `.env`. It's just a simple logging system, whichs logs the newly created mail and closed mails.
